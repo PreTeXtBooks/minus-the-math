@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preface</title>
+
+  <p>
+    <alert>Note on This PreTeXt Edition</alert>
+  </p>
+
+  <p>
+    This is a <url href="https://pretextbook.org/">PreTeXt</url> conversion of <em>Statistics Minus the Maths</em>, originally written by <url href="https://nathanfavero.com">Nathan Favero</url>. The original work is available online at <url href="https://github.com/favero-nate/minus-the-math">github.com/favero-nate/minus-the-math</url>. All references to <q>I</q> or <q>me</q> in this text refer to Nathan Favero, the original author.
+  </p>
+
+  <p>
+    This PreTeXt edition was prepared by <url href="https://github.com/PreTeXtBooks/minus-the-math">the PreTeXtBooks project</url> to make the content available in the PreTeXt format, enabling accessible and structured output in HTML, PDF, and other formats. All prose, figures, and mathematical content are intended to be faithful reproductions of the original work, though occasional typographical errors may have been introduced in the conversion process. Report any issues to our <url href="https://github.com/PreTeXtBooks/minus-the-math/issues">GitHub Issues Page</url>.
+  </p>
+
+  <p>
+    The original work by Nathan Favero is licensed under a <url href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</url>.
+  </p>
+
   <p>
     This site currently contains the PreTeXt version of the first edition of this text. A second edition is 
     now available at 
@@ -126,23 +143,4 @@
     I would like to thank Natasha Kallish for help transforming this text from Word to a Quarto document.
   </p>
 
-</preface>
-
-<preface>
-<title></title>
-  <p>
-    <alert>Note on This PreTeXt Edition</alert>
-  </p>
-
-  <p>
-    This is a <url href="https://pretextbook.org/">PreTeXt</url> conversion of <em>Statistics Minus the Maths</em>, originally written by <url href="https://nathanfavero.com">Nathan Favero</url>. The original work is available online at <url href="https://github.com/favero-nate/minus-the-math">github.com/favero-nate/minus-the-math</url>. All references to <q>I</q> or <q>me</q> in this text refer to Nathan Favero, the original author.
-  </p>
-
-  <p>
-    This PreTeXt edition was prepared by <url href="https://github.com/PreTeXtBooks/minus-the-math">the PreTeXtBooks project</url> to make the content available in the PreTeXt format, enabling accessible and structured output in HTML, PDF, and other formats. All prose, figures, and mathematical content are intended to be faithful reproductions of the original work, though occasional typographical errors may have been introduced in the conversion process. Report any issues to our <url href="https://github.com/PreTeXtBooks/minus-the-math/issues">GitHub Issues Page</url>.
-  </p>
-
-  <p>
-    The original work by Nathan Favero is licensed under a <url href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</url>.
-  </p>
 </preface>
