@@ -1,29 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preface</title>
-  
+
   <p>
-    <alert>Note on This PreTeXt Version:</alert> This is a PreTeXt version of <em>Statistics Minus the Maths</em>, originally authored by <url href="https://nathanfavero.com">Nathan Favero</url>. The original work is available at <url href="https://github.com/favero-nate/minus-the-math">https://github.com/favero-nate/minus-the-math</url>. All references to "I" or "me" in this text refer to Nathan Favero, the original author.
+    <alert>Note on This PreTeXt Edition</alert>
   </p>
 
   <p>
-    This PreTeXt adaptation is maintained at <url href="https://github.com/idemsinternational/minus-the-math">https://github.com/idemsinternational/minus-the-math</url>. If you encounter issues specific to the PreTeXt rendering or formatting of this version, please report them at <url href="https://github.com/idemsinternational/minus-the-math/issues">https://github.com/idemsinternational/minus-the-math/issues</url>. For issues with the original content, please contact Nathan Favero directly (contact info at <url href="https://nathanfavero.com"/>).
+    This is a <url href="https://pretextbook.org/">PreTeXt</url> conversion of <em>Statistics Minus the Maths</em>, originally written by <url href="https://nathanfavero.com">Nathan Favero</url>. The original work is available online at <url href="https://github.com/favero-nate/minus-the-math">github.com/favero-nate/minus-the-math</url>. All references to <q>I</q> or <q>me</q> in this text refer to Nathan Favero, the original author.
   </p>
 
   <p>
-    <url href="https://idemsinternational.github.io/minus-the-math/Statistics-Minus-The-Math.pdf">Click here for a PDF version</url> of this book. An <url href="https://idemsinternational.github.io/minus-the-math/Statistics-Minus-The-Math.epub">EPUB version (for e-readers)</url> is also available, although the formatting has not been optimized for this format, so some sections do not display well.
+    This PreTeXt edition was prepared by <url href="https://github.com/PreTeXtBooks/minus-the-math">the PreTeXtBooks project</url> to make the content available in the PreTeXt format, enabling accessible and structured output in HTML, PDF, and other formats. All prose, figures, and mathematical content are intended to be faithful reproductions of the original work, though occasional typographical errors may have been introduced in the conversion process. Report any issues to our <url href="https://github.com/PreTeXtBooks/minus-the-math/issues">GitHub Issues Page</url>.
   </p>
 
   <p>
-    This book was largely adapted from the public domain resource <em>Online Statistics Education: A Multimedia Course of Study</em> (<url href="https://onlinestatbook.com"/>, Project Leader: David M. Lane, Rice University). A huge thanks to David Lane and his colleagues at Rice University for their creation of this wonderful resource. I use footnotes throughout to indicate precisely where the various sections of each chapter came from. Chapters 11-13 (as well as Section 3.5 Quick Guide to Interpreting Regression Results, Section 4.2.2 Introducing Confidence Intervals for Regression, most of Section 4.2.3 Interpreting Confidence Intervals Correctly, and Section 9.3.1 Drawing Substantive Conclusions from a Contingency Table) were written by me (Nathan).
+    The original work by Nathan Favero is licensed under a <url href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</url>.
   </p>
 
   <p>
-    This book is meant to be a free resource and is licensed under <url href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0</url>. You're welcome to share or adapt it, as long as you provide attribution to any work of mine that you use. This book was made using <url href="https://quarto.org/">Quarto</url> and is hosted using <url href="https://pages.github.com/">GitHub Pages</url>.
+    This site currently contains the PreTeXt version of the first edition of this text. A second edition is 
+    now available at 
+    <url href="https://minusthemath.com/2e">minusthemath.com/2e</url>. If you prefer 
+    to continue using the first edition, it will be preserved at 
+    <url href="https://minusthemath.com/1e">minusthemath.com/1e</url>. Beginning 
+    sometime in Summer 2026, the main domain 
+    (<url href="https://minusthemath.com">minusthemath.com</url>) will point to the 
+    second edition.
   </p>
 
   <p>
-    There are still formatting inconsistencies, and this is ever a work in progress. If you find errors, feel free to reach out (find updated contact info here: <url href="https://nathanfavero.com"/>) so I can correct them for the next version I publish.
+    A <url href="https://minusthemath.com/Statistics-Minus-The-Math.pdf">PDF 
+    version</url> of this book is available, as well as an 
+    <url href="https://minusthemath.com/Statistics-Minus-The-Math.epub">EPUB version 
+    (for e-readers)</url>, although the formatting has not been optimized for the EPUB 
+    format, so some sections do not display well.
+  </p>
+
+  <p>
+    This book was largely adapted from the public domain resource <em>Online Statistics 
+    Education: A Multimedia Course of Study</em> 
+    (<url href="https://onlinestatbook.com">onlinestatbook.com</url>, Project Leader: 
+    David M. Lane, Rice University). A huge thanks to David Lane and his colleagues at 
+    Rice University for their creation of this wonderful resource. Footnotes throughout 
+    indicate precisely where the various sections of each chapter came from. Chapters 
+    11<ndash/>13, as well as the sections Quick Guide to Interpreting Regression 
+    Results, Introducing Confidence Intervals for Regression, most of Interpreting 
+    Confidence Intervals Correctly, and Drawing Substantive Conclusions from a 
+    Contingency Table, were written by Nathan.
+  </p>
+
+  <p>
+    This book is meant to be a free resource and is licensed under 
+    <url href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 
+    4.0</url>. You are welcome to share or adapt it, as long as you provide attribution 
+    to any work used. This book was made using 
+    <url href="https://quarto.org/">Quarto</url> and is hosted using 
+    <url href="https://pages.github.com/">GitHub Pages</url>.
+  </p>
+
+  <p>
+    There are still formatting inconsistencies, and this is ever a work in progress. 
+    If you find errors, feel free to reach out (find updated contact info at 
+    <url href="https://nathanfavero.com">nathanfavero.com</url>) so they can be 
+    corrected for the next version.
   </p>
 
   <p>
