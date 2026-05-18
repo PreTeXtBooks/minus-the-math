@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preface</title>
-
-<preface xml:id="preface">
-  <title>Preface</title>
-
   <p>
     This site currently contains the PreTeXt version of the first edition of this text. A second edition is 
     now available at 
@@ -52,8 +48,6 @@
     <url href="https://nathanfavero.com">nathanfavero.com</url>) so they can be 
     corrected for the next version.
   </p>
-
-</preface>
 
   <p>
     <alert>What's Unique About This Text?</alert>
