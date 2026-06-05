@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preface</title>
-  
-  <p>
-    <alert>Note on This PreTeXt Version:</alert> This is a PreTeXt version of <em>Statistics Minus the Maths</em>, originally authored by <url href="https://nathanfavero.com">Nathan Favero</url>. The original work is available at <url href="https://github.com/favero-nate/minus-the-math">https://github.com/favero-nate/minus-the-math</url>. All references to "I" or "me" in this text refer to Nathan Favero, the original author.
-  </p>
-
-  <p>
-    This PreTeXt adaptation is maintained at <url href="https://github.com/idemsinternational/minus-the-math">https://github.com/idemsinternational/minus-the-math</url>. If you encounter issues specific to the PreTeXt rendering or formatting of this version, please report them at <url href="https://github.com/idemsinternational/minus-the-math/issues">https://github.com/idemsinternational/minus-the-math/issues</url>. For issues with the original content, please contact Nathan Favero directly (contact info at <url href="https://nathanfavero.com"/>).
-  </p>
-
-  <p>
-    <url href="https://idemsinternational.github.io/minus-the-math/Statistics-Minus-The-Math.pdf">Click here for a PDF version</url> of this book. An <url href="https://idemsinternational.github.io/minus-the-math/Statistics-Minus-The-Math.epub">EPUB version (for e-readers)</url> is also available, although the formatting has not been optimized for this format, so some sections do not display well.
-  </p>
-
   <p>
     This book was largely adapted from the public domain resource <em>Online Statistics Education: A Multimedia Course of Study</em> (<url href="https://onlinestatbook.com"/>, Project Leader: David M. Lane, Rice University). A huge thanks to David Lane and his colleagues at Rice University for their creation of this wonderful resource. I use footnotes throughout to indicate precisely where the various sections of each chapter came from. Chapters 11-13 (as well as Section 3.5 Quick Guide to Interpreting Regression Results, Section 4.2.2 Introducing Confidence Intervals for Regression, most of Section 4.2.3 Interpreting Confidence Intervals Correctly, and Section 9.3.1 Drawing Substantive Conclusions from a Contingency Table) were written by me (Nathan).
   </p>
