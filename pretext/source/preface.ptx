@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preface</title>
+
+<p>This site currently contains the PreTeXt version of the first edition of this text. A second edition is now available here: <url href ="https://minusthemath.com/2e>https://minusthemath.com/2e</url>.
+The original first edition is available at <url href = "https://minusthemath.com/1e">https://minusthemath.com/1e</url>. 
+</p>
+
+<p><url hef = "https://minusthemath.com/Statistics-Minus-The-Math.pdf">Click here for a PDF version</url> of this book. 
+<url href = "https://minusthemath.com/Statistics-Minus-The-Math.epub">An EPUB version (for e-readers)</url> is also available, although the formatting has not been optimized for this format, so some sections do not display well.
+</p>
   <p>
     This book was largely adapted from the public domain resource <em>Online Statistics Education: A Multimedia Course of Study</em> (<url href="https://onlinestatbook.com"/>, Project Leader: David M. Lane, Rice University). A huge thanks to David Lane and his colleagues at Rice University for their creation of this wonderful resource. I use footnotes throughout to indicate precisely where the various sections of each chapter came from. Chapters 11-13 (as well as Section 3.5 Quick Guide to Interpreting Regression Results, Section 4.2.2 Introducing Confidence Intervals for Regression, most of Section 4.2.3 Interpreting Confidence Intervals Correctly, and Section 9.3.1 Drawing Substantive Conclusions from a Contingency Table) were written by me (Nathan).
   </p>
