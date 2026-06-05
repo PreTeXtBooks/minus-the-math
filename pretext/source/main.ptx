@@ -19,6 +19,7 @@
       </titlepage>
 
       <xi:include href="./preface.ptx"/>
+      <xi:include href="./preface-about-this-version.ptx"/>
     </frontmatter>
 
     <xi:include href="./ch01-graphical-tools.ptx"/>
