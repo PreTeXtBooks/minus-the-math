@@ -35,11 +35,7 @@ jobs:
       - name: Install PreTeXt CLI
         run: |
           pip install pretext
-          
-      - name: Copy images for PreTeXt
-        run: |
-          python3 copy_images.py
-          
+
       - name: Build PreTeXt book (HTML)
         run: |
           cd pretext
