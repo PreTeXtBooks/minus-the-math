@@ -739,7 +739,7 @@
       
       <figure xml:id="fig-reg-example-cis">
         <caption>A scatter plot of the example data. The black line consists of the predictions, the points are the actual data, and the vertical lines between the points and the black line represent errors of prediction.</caption>
-        <image source="Images/correlations/splotexampledatadetail.jpg" width="50%"/>
+        <image source="Images/correlations/splotexampledatadetail.png" width="50%"/>
       </figure>
       
       <p>

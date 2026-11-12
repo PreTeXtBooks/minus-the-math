@@ -13,7 +13,7 @@
 
     <figure xml:id="fig-Big5">
       <caption>Example survey items used in the <q>Big Five</q> case study.</caption>
-      <image source="Images/regression-qual-predictors/Big5.jpg" width="70%">
+      <image source="Images/regression-qual-predictors/Big5.png" width="70%">
         <description>Survey items from the Big Five personality questionnaire showing example questions</description>
       </image>
     </figure>
@@ -28,7 +28,7 @@
 
     <figure xml:id="fig-big5dataset">
       <caption>Screenshot of some observations and variable values in the <q>Big Five</q> dataset.</caption>
-      <image source="Images/regression-qual-predictors/big5dataset.jpg" width="70%">
+      <image source="Images/regression-qual-predictors/big5dataset.png" width="70%">
         <description>Dataset screenshot showing variables e1 through e10 representing extroversion questions</description>
       </image>
     </figure>
@@ -43,7 +43,7 @@
 
     <figure xml:id="fig-ExtHist">
       <caption>Distribution of the extroversion trait.</caption>
-      <image source="Images/regression-qual-predictors/ExtHist.jpg" width="50%">
+      <image source="Images/regression-qual-predictors/ExtHist.png" width="50%">
         <description>Histogram showing distribution of extroversion scores centered around zero</description>
       </image>
     </figure>
@@ -62,7 +62,7 @@
 
     <figure xml:id="fig-GenderExtHist">
       <caption>Distribution of extroversion by female/male identity.</caption>
-      <image source="Images/regression-qual-predictors/GenderExtHist.jpg" width="50%">
+      <image source="Images/regression-qual-predictors/GenderExtHist.png" width="50%">
         <description>Two overlapping histograms showing distribution of extroversion for females and males</description>
       </image>
     </figure>
@@ -145,7 +145,7 @@
 
     <figure xml:id="fig-NonBExtHist">
       <caption>Distribution of extroversion trait among those identifying with <q>other</q> gender (neither male nor female).</caption>
-      <image source="Images/regression-qual-predictors/NonBExtHist.jpg" width="50%">
+      <image source="Images/regression-qual-predictors/NonBExtHist.png" width="50%">
         <description>Histogram showing distribution of extroversion scores for non-binary respondents</description>
       </image>
     </figure>

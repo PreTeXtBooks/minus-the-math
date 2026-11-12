@@ -124,7 +124,7 @@
 
       <figure xml:id="fig-imac-piechart">
         <caption>Pie chart of iMac purchases illustrating frequencies of previous computer ownership</caption>
-        <image source="Images/graphing/imacpiechart.jpeg" width="60%">
+        <image source="Images/graphing/imacpiechart.png" width="60%">
           <description>Pie chart showing distribution of iMac purchases by previous computer ownership</description>
         </image>
       </figure>

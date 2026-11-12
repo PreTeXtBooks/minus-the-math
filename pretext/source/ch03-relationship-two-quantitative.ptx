@@ -51,7 +51,7 @@
 
     <figure xml:id="fig-hist-spousal-age">
       <caption>Histograms of spousal ages</caption>
-      <image source="Images/correlations/histspousalage.jpg" width="70%">
+      <image source="Images/correlations/histspousalage.png" width="70%">
         <description>Side-by-side histograms showing the distribution of ages for husbands and wives</description>
       </image>
     </figure>
@@ -83,7 +83,7 @@
 
     <figure xml:id="fig-scatter-spousal-age">
       <caption>Scatter plot showing wife's age as a function of husband's age, <m>r = 0.97</m></caption>
-      <image source="Images/correlations/scatterplotspousalage.jpg" width="50%">
+      <image source="Images/correlations/scatterplotspousalage.png" width="50%">
         <description>Scatter plot with husband's age on x-axis and wife's age on y-axis, showing a strong positive linear relationship</description>
       </image>
     </figure>
@@ -102,7 +102,7 @@
 
     <figure xml:id="fig-scatter-strength">
       <caption>Scatter plot of Grip Strength and Arm Strength, <m>r = 0.63</m></caption>
-      <image source="Images/correlations/scatterplotstrength.jpg" width="55%">
+      <image source="Images/correlations/scatterplotstrength.png" width="55%">
         <description>Scatter plot showing the relationship between arm strength and grip strength</description>
       </image>
     </figure>
@@ -113,7 +113,7 @@
 
     <figure xml:id="fig-scatter-galileo">
       <caption>Galileo's data showing a non-linear relationship</caption>
-      <image source="Images/correlations/scatterplotgalileo.jpg" width="60%">
+      <image source="Images/correlations/scatterplotgalileo.png" width="60%">
         <description>Scatter plot of Galileo's projectile motion experiment showing a curved relationship</description>
       </image>
     </figure>
@@ -144,21 +144,21 @@
 
     <figure xml:id="fig-pos-linear">
       <caption>A perfect positive linear relationship, <m>r = 1</m></caption>
-      <image source="Images/correlations/poslinearrel.jpg" width="50%">
+      <image source="Images/correlations/poslinearrel.png" width="50%">
         <description>Scatter plot showing a perfect positive linear relationship where all points fall exactly on a line</description>
       </image>
     </figure>
 
     <figure xml:id="fig-neg-linear">
       <caption>A perfect negative linear relationship, <m>r = -1</m></caption>
-      <image source="Images/correlations/neglinearrel.jpg" width="50%">
+      <image source="Images/correlations/neglinearrel.png" width="50%">
         <description>Scatter plot showing a perfect negative linear relationship where all points fall exactly on a downward sloping line</description>
       </image>
     </figure>
 
     <figure xml:id="fig-no-relation">
       <caption>A scatter plot for which <m>r = 0</m>. Notice that there is no relationship between <m>X</m> and <m>Y</m></caption>
-      <image source="Images/correlations/scatterplotnorel.jpg" width="50%">
+      <image source="Images/correlations/scatterplotnorel.png" width="50%">
         <description>Scatter plot showing no relationship between variables, with points scattered randomly</description>
       </image>
     </figure>
@@ -337,7 +337,7 @@
 
     <figure xml:id="fig-scatter-example-data">
       <caption>A scatter plot of the example data</caption>
-      <image source="Images/correlations/splotexampledata.jpg" width="40%">
+      <image source="Images/correlations/splotexampledata.png" width="40%">
         <description>Scatter plot of example data showing a positive relationship</description>
       </image>
     </figure>
@@ -348,7 +348,7 @@
 
     <figure xml:id="fig-scatter-example-detail">
       <caption>A scatter plot of the example data. The black line consists of the predictions, the points are the actual data, and the vertical lines between the points and the black line represent errors of prediction</caption>
-      <image source="Images/correlations/splotexampledatadetail.jpg" width="50%">
+      <image source="Images/correlations/splotexampledatadetail.png" width="50%">
         <description>Scatter plot with regression line showing prediction errors for each data point</description>
       </image>
     </figure>
@@ -466,7 +466,7 @@
 
       <figure xml:id="fig-uni-high-school-gpa">
         <caption>University GPA as a function of High School GPA</caption>
-        <image source="Images/correlations/unihighschoolgpa.jpg" width="60%">
+        <image source="Images/correlations/unihighschoolgpa.png" width="60%">
           <description>Scatter plot showing the relationship between high school GPA and university GPA with regression line</description>
         </image>
       </figure>
