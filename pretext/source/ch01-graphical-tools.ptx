@@ -629,8 +629,8 @@
     </subsection>
   </section>
 
-  <appendix xml:id="appendix-percentile-calculation">
-    <title>Calculating Percentiles Under the Third Definition</title>
+  <section xml:id="appendix-percentile-calculation">
+    <title>Appendix: Calculating Percentiles Under the Third Definition</title>
     
     <p>
       Let's begin with an example. Consider the 25th percentile for the 8 numbers in <xref ref="table-number-rank-scores"/>. Notice the numbers are given ranks ranging from 1 for the lowest number to 8 for the highest number.
@@ -840,7 +840,7 @@
     <me>
       \text{50th percentile} = (0.00)(9 - 5) + 5 = 5.
     </me>
-  </appendix>
+  </section>
 
   <references>
     <biblio type="raw" xml:id="ref-variables">

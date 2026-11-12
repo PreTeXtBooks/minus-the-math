@@ -9,7 +9,7 @@
   </introduction>
 
   <section xml:id="sec-chi-square-distribution">
-    <title>Chi Square Distribution<fn>This section is adapted from David M. Lane. "Chi Square Distribution." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/distribution.html"/></fn></title>
+    <title>Chi Square Distribution<fn>This section is adapted from David M. Lane. "Chi Square Distribution." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/distribution.html">https://onlinestatbook.com/2/chi_square/distribution.html</url></fn></title>
     
     <p>
       While the details of the Chi Square distribution are not so important for understanding how to interpret a test of the relationship between two qualitative variable, a brief explanation is nonetheless provided here (with more information provided in this chapter's appendix). A standard normal deviate is a random sample from the standard normal distribution. The Chi Square distribution is the distribution of the sum of squared standard normal deviates, and the degrees of freedom of the distribution is equal to the number of standard normal deviates being summed. Again, don't worry if you don't follow these details since they are not important for the average reader of this text.
@@ -32,7 +32,7 @@
   </section>
 
   <section xml:id="sec-one-way-tables">
-    <title>One-Way Tables<fn>This section is adapted from David M. Lane. "One-Way Tables (Testing Goodness of Fit)." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/one-way.html"/></fn></title>
+    <title>One-Way Tables<fn>This section is adapted from David M. Lane. "One-Way Tables (Testing Goodness of Fit)." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/one-way.html">https://onlinestatbook.com/2/chi_square/one-way.html</url></fn></title>
     
     <p>
       The Chi Square distribution can be used to test whether observed data differ <em>significantly</em> from theoretical expectations. For example, for a fair six-sided die, the probability of any given outcome on a single roll would be 1/6. The data in <xref ref="tbl-sixsidedie"/> were obtained by rolling a six-sided die 36 times. However, as can be seen in <xref ref="tbl-sixsidedie"/>, some outcomes occurred more frequently than others. For example, a <q>3</q> came up nine times, whereas a <q>4</q> came up only two times. Are these data consistent with the hypothesis that the die is a fair die? Naturally, we do not expect the sample frequencies of the six possible outcomes to be the same since chance differences will occur. So, the finding that the frequencies differ does not mean that the die is not fair. One way to test whether the die is fair is to conduct a significance (hypothesis) test. The null hypothesis is that the die is fair. This hypothesis is tested by computing the probability of obtaining frequencies as discrepant or more discrepant from a uniform distribution of frequencies as obtained in the sample. If this probability is sufficiently low, then the null hypothesis that the die is fair can be rejected.
@@ -220,7 +220,7 @@
   </section>
 
   <section xml:id="sec-contingency-tables">
-    <title>Contingency Tables<fn>This section is adapted from David M. Lane. "Contingency Tables." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/contingency.html"/></fn></title>
+    <title>Contingency Tables<fn>This section is adapted from David M. Lane. "Contingency Tables." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/contingency.html">https://onlinestatbook.com/2/chi_square/contingency.html</url></fn></title>
     
     <p>
       This section shows how to use Chi Square to test the relationship between qualitative variables for significance. For example, <xref ref="tbl-studyfreqs"/> shows the data from the Mediterranean Diet and Health case study,<fn><url href="https://onlinestatbook.com/2/case_studies/diet.html"/></fn> in which 605 survivors of a heart attack were randomly assigned to follow either (1) a low-fat diet similar to one recommended at the time by the American Heart Association (AHA) or (2) a Mediterranean-type diet rich in vegetables, fruits, and grains.
@@ -250,7 +250,7 @@
           <cell>239</cell>
           <cell>303</cell>
         </row>
-        <row>
+        <row bottom="minor">
           <cell>Mediterranean</cell>
           <cell>7</cell>
           <cell>14</cell>
@@ -258,7 +258,7 @@
           <cell>273</cell>
           <cell>302</cell>
         </row>
-        <row header="yes">
+        <row>
           <cell>Total</cell>
           <cell>22</cell>
           <cell>38</cell>
@@ -487,7 +487,7 @@
   </section>
 
   <section xml:id="sec-comparing-groups-appendix">
-    <title><xref ref="ch09-comparing-groups"/> Appendix: More about the Chi Square Distribution<fn>This section is adapted from David M. Lane. "Chi Square Distribution." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/distribution.html"/></fn></title>
+    <title><xref ref="ch09-comparing-groups"/> Appendix: More about the Chi Square Distribution<fn>This section is adapted from David M. Lane. "Chi Square Distribution." <em>Online Statistics Education: A Multimedia Course of Study</em>. <url href="https://onlinestatbook.com/2/chi_square/distribution.html">https://onlinestatbook.com/2/chi_square/distribution.html</url></fn></title>
     
     <p>
       As noted in the main text, the degrees of freedom of the distribution is equal to the number of standard normal deviates being summed. Therefore, Chi Square with one degree of freedom, written as <m>\chi^2(1)</m>, is simply the distribution of a single normal deviate squared. The area of the <m>\chi^2(1)</m> distribution below 4 is the same as the area of a standard normal distribution below 2, since 4 is <m>2^2</m>.
