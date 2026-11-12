@@ -23,7 +23,6 @@ cli.log
 logs/
 
 assets/generated/
-assets/Images/
 
 
 # don't track OS related files (windows/macos/linux)
